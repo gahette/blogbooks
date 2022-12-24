@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "3c5a6ae2b09e74f66a2702ee5815a856",
+    "content-hash": "10e9d80a4d2b8a298178de1be6b295a6",
     "packages": [
         {
             "name": "doctrine/annotations",
@@ -177,7 +177,7 @@
         },
         {
             "name": "doctrine/collections",
-            "version": "1.8.0",
+            "version": "2.1.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/doctrine/collections.git",
